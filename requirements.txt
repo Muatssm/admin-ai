@@ -1,0 +1,7 @@
+google.generativeai
+discord.py
+fuzzywuzzy
+python-dotenv
+tenacity
+python-Levenshtein
+psutil
